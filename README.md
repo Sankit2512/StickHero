@@ -1,4 +1,3 @@
-@@ -0,0 +1,54 @@
 # CSE201 Advanced Programming
 ## AP Project 2023 - Stick Hero Game Implementation
 
